@@ -1,11 +1,11 @@
 
-````angular2
+````text
+版本忽略
+
+composer install --ignore-platform-reqs
 
 
-
-
-
-
+composer update --ignore-platform-reqs
 
 
 
