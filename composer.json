@@ -1,0 +1,30 @@
+{
+    "name": "deng-php/tool-clear-video",
+    "description": "clear",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "deng-php",
+            "email": "1415551519@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DengPhp\\ToolClearVideo\\": "src"
+        },
+        "files": [
+            "config/url-validator.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 7.0",
+        "ext-json": "*",
+        "ext-openssl": "*",
+        "ext-SimpleXML": "*",
+        "ext-mbstring": "*",
+        "ext-libxml": "*",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
