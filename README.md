@@ -1,3 +1,32 @@
+
+````angular2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````
+
+
+
+
 <h1>Smalls</h1>
 <p>
 <a href="https://packagist.org/packages/smalls/video-tools"><img src="https://poser.pugx.org/smalls/video-tools/v/stable" alt="Latest Stable Version"></a>
@@ -6,7 +35,7 @@
 <a href="https://packagist.org/packages/smalls/video-tools"><img src="https://poser.pugx.org/smalls/video-tools/license" alt="License"></a>
 </p>
 
-## 短视频去水印
+## clear video
 集成了：抖音、火山、头条、快手、梨视频、美拍、陌陌、皮皮搞笑、皮皮虾、全民搞笑、刷宝、微视、小咖秀、最右、B站、微博、秒拍、淘宝等等。其他如果需要对接的可以issues
 
 * 技术交流群：1055772768 - 进群密码：smalls
